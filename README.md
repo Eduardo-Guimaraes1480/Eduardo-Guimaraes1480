@@ -1,5 +1,10 @@
-### Hello world 👋
+## Olaa eu sou Eduardo Guimarães, estudante de Informática para Internet!
 
-- 👨‍💻 Estudando Informatica para Internet no IF Baiano Turma: 2BII
-- 🏙 Guanambi - BA
-- 💬 Email: dudulindo1480@gmail.com
+
+
+<div style="display: inline_block" display="flex" justify-content="center" align-itens="center"><br>
+ 
+
+
+
+<img src="https://myreadme.vercel.app/api/embed/Eduardo-Guimaraes1480?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
