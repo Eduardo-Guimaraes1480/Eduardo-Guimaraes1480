@@ -1,16 +1,22 @@
 ## Olá eu sou Eduardo Guimarães, estudante de Informática para Internet!! 🍃👨‍💻
 
 <!-- Seção de estatísticas do GitHub -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=eduardo-guimaraes1480&bg_color=000000&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- link do site do grafico: https://ashutosh00710.github.io/github-readme-activity-graph/-->
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Eduardo-Guimaraes1480&show_icons=true&count_private=true&hide_border=true&title_color=9BA4B5&icon_color=394867&text_color=c9d1d9&bg_color=0d1117&theme=merko" alt="Eduardo Guimaraes GitHub stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Guimaraes1480&layout=compact&hide_border=true&title_color=394867&text_color=9BA4B5&bg_color=0d1117&theme=merko" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Eduardo-Guimaraes1480&show_icons=true&count_private=true&hide_border=true&title_color=9e4896&icon_color=9e4896&text_color=9e4896&bg_color=0000" alt="Eduardo Guimaraes GitHub stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Guimaraes1480&layout=compact&hide_border=true&title_color=9e4896&text_color=9e4896&bg_color=0000" />
 </div>
 
 <!-- Seção das Linguagens de Programação -->
 <div style="display: inline_block"><br>
-  <img align="center" alt="Dudu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Dudu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+	![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)
 </div>
+
+---
 
 ### Me siga nas redes socias abaixo 👇
  <!-- Seção de redes sociais -->
