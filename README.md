@@ -6,6 +6,7 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Eduardo-Guimaraes1480&show_icons=true&count_private=true&hide_border=true&title_color=9e4896&icon_color=9e4896&text_color=9e4896&bg_color=0000" alt="Eduardo Guimaraes GitHub stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Guimaraes1480&layout=compact&hide_border=true&title_color=9e4896&text_color=9e4896&bg_color=0000" />
+<img height="195px" src="https://streak-stats.demolab.com/?user=Eduardo-Guimaraes1480&background=0000&hide_border=true&fire=9e4896&dates=9e4896&fire=9e4896&excludeDaysLabel=9e4896&ring=9e4896&stroke=9e4896&currStreakNum=9e4896&currStreakLabel=9e4896&sideLabels=9e4896&excludeDaysLabel=9e4896&sideNums=9e4896" />
 </div>
 
 <!-- Seção das Linguagens de Programação -->
