@@ -25,7 +25,7 @@
 
 ---
 
-### Me siga nas redes socias abaixo 👇
+### Redes Socias
  <!-- Seção de redes sociais -->
 <div> 
   <a href="https://youtube.com/@dudheloco?si=BtLEb5z-sl8eoPt7" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
